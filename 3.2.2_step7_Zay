@@ -1,0 +1,18 @@
+#Activity 3.2.2 Step 7
+from Post import Post
+
+all_posts_archive = []
+
+# your code here
+
+user = "what is your username?"
+print("welcome", input(user),"!")
+
+new = "add a post"
+remove = "remove your post"
+change = "change your user"
+show = "show all posts"
+quit = "exit the app"
+
+
+
